@@ -1,0 +1,64 @@
+h1{
+  color: #9b0000;
+}
+header {
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  
+  }
+  
+  nav {
+    float: left;
+    top: -5px;
+    font-size: 1px;
+    width:10000px;
+    height:50px;
+    position: relative;
+    right: 10px;
+    left: -40px;
+    background-color: #a6a4ff;
+    
+  }
+  a:hover {
+    color: white;
+    font-size: 18px;
+    text-align: white;
+   
+  }
+  a:active {
+    color: white;
+    font-size: 18px;
+    text-align: white;
+   
+  }
+  
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+    
+  }
+  
+  nav ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    
+  }
+  nav ul li a {
+    display: block;
+    padding: 10px;
+    color: #000000;
+    text-decoration: none;
+    
+  
+  }
+ .cinicio1:hover {
+  background: #b30404;
+  }
+  .cinicio:hover {
+    background: #090b9c;
+  }
+
+  
